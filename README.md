@@ -11,14 +11,3 @@ I'm an aspiring Full-Stack Developer and 3rd-year IT student studying B.Tech. I 
 ![](https://github-readme-stats.vercel.app/api?username=rarestpreet&theme=buefy&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rarestpreet&theme=buefy&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rarestpreet&theme=buefy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rarestpreet&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rarestpreet&limit=5&theme=buefy&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=rarestpreet&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
