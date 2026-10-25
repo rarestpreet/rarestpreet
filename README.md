@@ -1,13 +1,96 @@
-# 💫 About Me:
-I'm an aspiring Full-Stack Developer and 3rd-year IT student studying B.Tech. I specialize in Java and Spring Boot with a strong foundation in Data Structures and Algorithms.<br>Currently learning how to build enterprise-grade Spring applications and expanding skills in React.js and MongoDB.
+<!--
+Art in assets/ is built by scripts/build_assets.py (edit PROJECTS / DOSSIER there, rerun).
+Stats, languages and history cards are generated daily by .github/workflows/profile.yml
+(scripts/profile_cards.py) into the "output" branch.
+-->
 
+<p align="center">
+  <img src="assets/hero.gif" width="100%" alt="Arpit Goswami — Backend Sorcerer" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ig.arpit03/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arpit-goswami03/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arpit.personal.2003@gmail.com) 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rarestpreet&style=flat-square&color=e01b24&labelColor=101010&label=FILE+ACCESSED" />
+  <a href="https://www.linkedin.com/in/arpit-goswami03/"><img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-e01b24?style=flat-square&labelColor=101010" /></a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rarestpreet&theme=buefy&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rarestpreet&theme=buefy&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rarestpreet&theme=buefy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<br>
+
+<img src="assets/h-01.png" width="100%" />
+
+<img src="assets/dossier.png" width="100%" alt="Personnel file: Arpit Goswami, backend developer — Java, Spring Boot, Redis" />
+
+<br><br>
+
+<img src="assets/h-02.png" width="100%" />
+
+<p align="center">
+  <a href="mailto:arpit.personal.2003@gmail.com?subject=Access%20request%20%E2%80%94%20Limitzz"><img src="assets/card-limitzz.png" width="49%" alt="Limitzz — private" /></a><a href="https://hearmeout-frontend.onrender.com/"><img src="assets/card-hearmeout.png" width="49%" alt="HearMeOut — live" /></a>
+  <a href="https://authify-n8yi.onrender.com/"><img src="assets/card-authify.png" width="49%" alt="Authify — live" /></a><a href="mailto:arpit.personal.2003@gmail.com?subject=Access%20request%20%E2%80%94%20Shawty"><img src="assets/card-shawty.png" width="49%" alt="Shawty — private" /></a>
+  <a href="https://spring-boot-cursor-pagination.onrender.com/index.html"><img src="assets/card-cursor.png" width="49%" alt="Cursor Pagination — live" /></a><a href="https://whatsapp-chatbot-backend-simulation-bget.onrender.com"><img src="assets/card-whatsapp.png" width="49%" alt="WhatsApp Bot Sim — live" /></a>
+  <a href="https://github.com/rarestpreet/shawty-url-shortner-extension"><img src="assets/card-shawty-ext.png" width="49%" alt="Shawty Extension — source" /></a><a href="https://github.com/rarestpreet/trading-signal-listener-spring-boot"><img src="assets/card-trading.png" width="49%" alt="Trading Signals — source" /></a>
+</p>
+
+<p align="center">
+  <sub>
+    <b>SOURCE</b> &nbsp;·&nbsp;
+    HearMeOut <a href="https://github.com/rarestpreet/community-qna-platform-frontend-react">fe</a>/<a href="https://github.com/rarestpreet/community-qna-platform-backend-springboot">be</a> &nbsp;·&nbsp;
+    Authify <a href="https://github.com/rarestpreet/authentication-system-frontend-react">fe</a>/<a href="https://github.com/rarestpreet/authentication-system-backend-springboot">be</a>/<a href="https://authify-backend-c1zq.onrender.com/api">api</a> &nbsp;·&nbsp;
+    <a href="https://github.com/rarestpreet/spring-boot-cursor-pagination">Cursor Pagination</a> &nbsp;·&nbsp;
+    <a href="https://github.com/rarestpreet/whatsapp-chatbot-backend-simulation">WhatsApp Bot</a>
+    <br>
+    <b>SIDE QUESTS</b> &nbsp;·&nbsp;
+    <a href="https://todesktop-preet.vercel.app/">ToDesktop Clone ↗</a> &nbsp;·&nbsp;
+    <a href="https://rarestpreet.github.io/tic-tac-toe/">Tic-Tac-Toe ↗</a> &nbsp;·&nbsp;
+    <a href="https://github.com/rarestpreet/ai-powered-fitness-microservice">AI Fitness Microservices</a>
+    <br>
+    <i>封印 sealed = private repo, click to request access. Live demos are on Render's free tier, so the first load can take ~30s.</i>
+  </sub>
+</p>
+
+<br>
+
+<img src="assets/h-03.png" width="100%" />
+
+<p align="center">
+  <img height="180" src="https://raw.githubusercontent.com/rarestpreet/rarestpreet/output/langs-dark.svg" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,python,js,ts,react,nodejs,express,redis,mongodb,postgres,mysql,docker,git,linux&theme=dark&perline=8" />
+</p>
+
+<br>
+
+<img src="assets/h-04.png" width="100%" />
+
+<p align="center">
+  <img height="180" src="https://raw.githubusercontent.com/rarestpreet/rarestpreet/output/stats-dark.svg" alt="Lifetime commits" />
+  <img height="180" src="https://raw.githubusercontent.com/rarestpreet/rarestpreet/output/streak-dark.svg" alt="Commit streak" />
+</p>
+
+<br>
+
+<img src="assets/h-05.png" width="100%" />
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/rarestpreet/rarestpreet/output/history-dark.svg" alt="Monthly commit history" />
+</p>
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/rarestpreet/rarestpreet/output/github-snake-dark.svg" alt="Contribution snake" />
+</p>
+
+<br>
+
+<img src="assets/h-06.png" width="100%" />
+
+<p align="center">
+  <img src="assets/outro.gif" width="100%" alt="Domain Expansion" />
+</p>
+
+<p align="center">
+  <a href="mailto:arpit.personal.2003@gmail.com"><img src="https://img.shields.io/badge/EMAIL-101010?style=for-the-badge&logo=gmail&logoColor=E01B24" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/arpit-goswami03/"><img src="https://img.shields.io/badge/LINKEDIN-101010?style=for-the-badge&logo=linkedin&logoColor=E01B24" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/arpitgoswami/"><img src="https://img.shields.io/badge/LEETCODE-101010?style=for-the-badge&logo=leetcode&logoColor=E01B24" alt="LeetCode" /></a>
+  <a href="https://www.instagram.com/ig.arpit03/"><img src="https://img.shields.io/badge/INSTAGRAM-101010?style=for-the-badge&logo=instagram&logoColor=E01B24" alt="Instagram" /></a>
+</p>
+
+<p align="center"><sub>━━━━━━ ⛩ &nbsp; END OF FILE 0675 &nbsp; ⛩ ━━━━━━</sub></p>
