@@ -24,23 +24,25 @@ Stats, languages and history cards are generated daily by .github/workflows/prof
 <img src="assets/h-02.png" width="100%" />
 
 <p align="center">
-  <a href="mailto:arpit.personal.2003@gmail.com?subject=Access%20request%20%E2%80%94%20Limitzz"><img src="assets/card-limitzz.png" width="49%" alt="Limitzz — private" /></a><a href="https://hearmeout-frontend.onrender.com/"><img src="assets/card-hearmeout.png" width="49%" alt="HearMeOut — live" /></a>
-  <a href="https://authify-n8yi.onrender.com/"><img src="assets/card-authify.png" width="49%" alt="Authify — live" /></a><a href="mailto:arpit.personal.2003@gmail.com?subject=Access%20request%20%E2%80%94%20Shawty"><img src="assets/card-shawty.png" width="49%" alt="Shawty — private" /></a>
-  <a href="https://spring-boot-cursor-pagination.onrender.com/index.html"><img src="assets/card-cursor.png" width="49%" alt="Cursor Pagination — live" /></a><a href="https://whatsapp-chatbot-backend-simulation-bget.onrender.com"><img src="assets/card-whatsapp.png" width="49%" alt="WhatsApp Bot Sim — live" /></a>
-  <a href="https://github.com/rarestpreet/shawty-url-shortner-extension"><img src="assets/card-shawty-ext.png" width="49%" alt="Shawty Extension — source" /></a><a href="https://github.com/rarestpreet/trading-signal-listener-spring-boot"><img src="assets/card-trading.png" width="49%" alt="Trading Signals — source" /></a>
+  <a href="https://github.com/rarestpreet/shawty-url-shortner-extension"><img src="assets/card-shawty-ext.png" width="49%" alt="Shawty Extension — source" /></a>
+  <a href="https://limitzz.onthewifi.com/"><img src="assets/card-limitzz.png" width="49%" alt="Limitzz — live" /></a>
+  <a href="https://github.com/rarestpreet/community-qna-platform-backend-springboot"><img src="assets/card-hearmeout.png" width="49%" alt="HearMeOut — source" /></a>
+  <a href="https://shawty.hopto.org/"><img src="assets/card-shawty.png" width="49%" alt="Cursor Pagination — live" /></a>
+  <a href="https://github.com/rarestpreet/spring-boot-cursor-pagination/"><img src="assets/card-cursor.png" width="49%" alt="Cursor Pagination — source" /></a>
+  
 </p>
 
 <p align="center">
   <sub>
-    <b>SOURCE</b> &nbsp;·&nbsp;
-    HearMeOut <a href="https://github.com/rarestpreet/community-qna-platform-frontend-react">fe</a>/<a href="https://github.com/rarestpreet/community-qna-platform-backend-springboot">be</a> &nbsp;·&nbsp;
-    Authify <a href="https://github.com/rarestpreet/authentication-system-frontend-react">fe</a>/<a href="https://github.com/rarestpreet/authentication-system-backend-springboot">be</a>/<a href="https://authify-backend-c1zq.onrender.com/api">api</a> &nbsp;·&nbsp;
-    <a href="https://github.com/rarestpreet/spring-boot-cursor-pagination">Cursor Pagination</a> &nbsp;·&nbsp;
-    <a href="https://github.com/rarestpreet/whatsapp-chatbot-backend-simulation">WhatsApp Bot</a>
+    <b>SOURCE</b> &nbsp;&nbsp;
+    <a href="">&nbsp;·&nbsp;
+    HearMeOut <a href="https://github.com/rarestpreet/community-qna-platform-backend-springboot">&nbsp;·&nbsp;
+    Shawty-extension <a href="https://github.com/rarestpreet/shawty-url-shortner-extension">&nbsp;·&nbsp;
+    <a href="https://github.com/rarestpreet/spring-boot-cursor-pagination">Cursor Pagination</a> &nbsp;&nbsp;
     <br>
     <b>SIDE QUESTS</b> &nbsp;·&nbsp;
-    <a href="https://todesktop-preet.vercel.app/">ToDesktop Clone ↗</a> &nbsp;·&nbsp;
-    <a href="https://rarestpreet.github.io/tic-tac-toe/">Tic-Tac-Toe ↗</a> &nbsp;·&nbsp;
+    <a href="https://todesktop-preet.vercel.app/">ToDesktop Clone</a> &nbsp;·&nbsp;
+    <a href="https://rarestpreet.github.io/tic-tac-toe/">Tic-Tac-Toe</a> &nbsp;·&nbsp;
     <a href="https://github.com/rarestpreet/ai-powered-fitness-microservice">AI Fitness Microservices</a>
     <br>
     <i>封印 sealed = private repo, click to request access. Live demos are on Render's free tier, so the first load can take ~30s.</i>

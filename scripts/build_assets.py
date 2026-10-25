@@ -23,33 +23,27 @@ W = 900
 
 DOSSIER = [
     ("SUBJECT", "Arpit Goswami // rarestpreet"),
-    ("GRADE", "Special Grade Backend Sorcerer"),
+    ("GRADE", "Grade 2 Backend Sorcerer"),
     ("AFFILIATION", "B.Tech, Information Technology"),
-    ("TECHNIQUE", "Distributed systems, rate limiting,"),
-    ("", "auth, microservices"),
-    ("BINDING VOW", "Java · Spring Boot · Redis"),
-    ("TOOLS", "React · Node · Docker · Postgres"),
+    ("TECHNIQUE", "Distributed systems, SaaS,"),
+    ("", "0-1 prod, Microservices"),
+    ("BINDING VOW", "Java · Spring Boot · React · Express"),
+    ("TOOLS", "Redis · Node · Docker · Postgres"),
     ("STATUS", "Active. Building at scale."),
 ]
 
 # name, kanji index, description lines, stack, status ("live" | "sealed" | "source"), filename
 PROJECTS = [
-    ("LIMITZZ", "壱", ["Distributed Rate Limiter as a Service.", "8,180+ RPS, sub-2ms P95, zero races."],
-     "Java 21 · Spring Boot 3 · Redis Lua", "sealed", "limitzz"),
-    ("HEARMEOUT", "弐", ["Community QnA & discussion platform", "with stateless auth and RBAC."],
-     "Spring Boot · React · JWT", "live", "hearmeout"),
-    ("AUTHIFY", "参", ["Full auth system: register, verify,", "reset, sessions. Spring Security."],
-     "Spring Security · React", "live", "authify"),
-    ("SHAWTY", "肆", ["URL shortener + link analytics.", "Base62 IDs, aliases, QR, expiry."],
-     "Node · Express · MongoDB · Redis", "sealed", "shawty"),
-    ("CURSOR PAGINATION", "伍", ["Keyset pagination over large datasets,", "stable while data changes."],
-     "Spring Boot · PostgreSQL", "live", "cursor"),
-    ("WHATSAPP BOT SIM", "陸", ["Chatbot webhook backend that", "simulates WhatsApp message flows."],
-     "Spring Boot · REST", "live", "whatsapp"),
     ("SHAWTY EXTENSION", "漆", ["Manifest V3 Chrome extension that", "auto-shortens copied URLs."],
      "JavaScript · Chrome MV3", "source", "shawty-ext"),
-    ("TRADING SIGNALS", "捌", ["Crypto signal listener with Binance", "API, scheduled jobs and CI/CD."],
-     "Spring Boot · Redis · Docker", "source", "trading"),
+    ("LIMITZZ", "壱", ["Distributed Rate Limiter as a Service.", "8,180+ RPS, sub-2ms P95, zero races."],
+     "Java 21 · Spring Boot 3 · Redis Lua", "live", "limitzz"),
+    ("HEARMEOUT", "弐", ["Community QnA & discussion platform", "with stateless auth and RBAC."],
+     "Spring Boot · React · Postgres", "source", "hearmeout"),
+    ("SHAWTY", "肆", ["URL shortener + link analytics.", "Base62 IDs, aliases, QR, expiry."],
+     "Node · Express · MongoDB · Redis", "live", "shawty"),
+    ("CURSOR PAGINATION", "伍", ["Cursor pagination over large datasets,", "stable while data changes."],
+     "Spring Boot · PostgreSQL", "source", "cursor"),
 ]
 
 SECTIONS = [
