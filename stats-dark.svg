@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="200" viewBox="0 0 350 200">
+<style>text{font-family:'JetBrains Mono', 'Fira Code', Consolas, ui-monospace, monospace;} .t{fill:#ece7df;font-size:16px;font-weight:700}
+.l{fill:#b9b4ac;font-size:13px} .m{fill:#7d7d7d;font-size:11px} .n{fill:#e01b24;font-size:13px;font-weight:700}</style>
+<rect x="0.5" y="0.5" width="349" height="199" rx="0" fill="#101010" stroke="#242424"/>
+<rect width="350" height="3" fill="#e01b24"/>
+<text x="20" y="32" class="t" letter-spacing="4">LIFETIME RECORD</text>
+<text x="20" y="64" class="l">Lifetime commits</text><text x="330" y="64" class="n" text-anchor="end">707</text><text x="20" y="88" class="l">Pull requests</text><text x="330" y="88" class="n" text-anchor="end">30</text><text x="20" y="112" class="l">Issues</text><text x="330" y="112" class="n" text-anchor="end">8</text><text x="20" y="136" class="l">Contributed to</text><text x="330" y="136" class="n" text-anchor="end">5</text><text x="20" y="160" class="l">Stars earned</text><text x="330" y="160" class="n" text-anchor="end">2</text><text x="20" y="184" class="m">since 2023 · '24 11 · '25 53 · '26 643</text>
+</svg>
